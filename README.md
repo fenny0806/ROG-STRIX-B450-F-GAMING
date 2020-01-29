@@ -18,6 +18,10 @@
 
 **显卡：ROG-STRIX-RX580-O8G-GAMING**
 
+**当前系统版本**
+
+![image-20200129181216857](/Users/youridol/Library/Application Support/typora-user-images/image-20200129181216857.png)
+
 ------
 
 修改"关于本机" CPU型号方法
@@ -27,6 +31,24 @@
 1.进入恢复模式 打开终端 关闭SIP模式
 
 终端中输入：
+
+SIP关闭
+
+```
+csrutil disable
+```
+
+SIP开启
+
+```
+csrutil enabled
+```
+
+SIP状态查询
+
+```
+csrutil status
+```
 
 2.打开终端
 
