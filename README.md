@@ -20,7 +20,7 @@
 
 **当前系统版本**
 
-![image-20200129181216857](/Users/youridol/Library/Application Support/typora-user-images/image-20200129181216857.png)
+![](./ROG-STRIX-B450-F-GAMING.png)
 
 ------
 
